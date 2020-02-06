@@ -38,7 +38,7 @@ URL: $page_url \n
 Variant: $variant \n
 EOM;
 
-mail('Your Email Address',
+mail('leearthur1234@gmail.com',
      'New Unbounce Form Submission!',
      $message_body);
 ?>
